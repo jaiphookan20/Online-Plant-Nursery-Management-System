@@ -1,6 +1,6 @@
 # 🌱 Plant Nursery Management System : REST API for Online Plant Nursery Management 🌱
 ## Introduction
-The Plant Nursery Management system API is a sophisticated digital solution tailored to address the challenges and needs of modern plant nurseries. This REST API enables a seamless experience for both administrators and users by providing core CRUD functionalities essential for any Plant Nursery Application. Crafted with precision and foresight, this API prioritizes user authentication at each interaction, ensuring data security and personalized user experiences. This robust project was brought to life by a dedicated team of back-end developers during an intensive project week at Masai School.
+The Plant Nursery Management system API is a sophisticated digital solution tailored to address the challenges and needs of modern plant nurseries. This REST API enables a seamless experience for both administrators and users by providing core CRUD functionalities essential for any Plant Nursery Application. This API prioritizes user authentication at each interaction, ensuring data security and personalized user experiences. 
 
 ## Tech Stack
 - Java
