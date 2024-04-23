@@ -1,4 +1,7 @@
 # 🌱 Plant Nursery Management System : REST API for Online Plant Nursery Management 🌱
+
+The API Docs can be accessed here: https://jaiphookan20.github.io/Swagger-API-for-Plant-Nursery-API/ 
+
 ## Introduction
 The Plant Nursery Management system API is a sophisticated digital solution tailored to address the challenges and needs of modern plant nurseries. This REST API enables a seamless experience for both administrators and users by providing core CRUD functionalities essential for any Plant Nursery Application. This API prioritizes user authentication at each interaction, ensuring data security and personalized user experiences. 
 
