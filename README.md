@@ -2,6 +2,10 @@
 
 The API Docs can be accessed here: https://jaiphookan20.github.io/Swagger-API-for-Plant-Nursery-API/ 
 
+# ER DIAGRAM OF PLANT NURSERY MANAGEMENT APPLICATION
+
+![ER Diagram of Plant Nursery Project](https://user-images.githubusercontent.com/101380040/193456250-c8fea983-dd1c-4888-a967-94ebfad02748.jpeg)
+
 ## Introduction
 The Plant Nursery Management system API is a sophisticated digital solution tailored to address the challenges and needs of modern plant nurseries. This REST API enables a seamless experience for both administrators and users by providing core CRUD functionalities essential for any Plant Nursery Application. This API prioritizes user authentication at each interaction, ensuring data security and personalized user experiences. 
 
@@ -91,10 +95,4 @@ https://localhost:8886/
 
 http://localhost:8886/swagger-ui/
 
-
-
-# ER DIAGRAM OF PLANT NURSERY MANAGEMENT APPLICATION
-
-
-![ER Diagram of Plant Nursery Project](https://user-images.githubusercontent.com/101380040/193456250-c8fea983-dd1c-4888-a967-94ebfad02748.jpeg)
 
